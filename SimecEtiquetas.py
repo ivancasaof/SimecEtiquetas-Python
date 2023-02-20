@@ -5353,7 +5353,7 @@ db = mysql.connector.connect(
     #host="192.168.11.125",
     #user="root",
     user="acesso_rede",
-    passwd="gv2K22ADM",
+    passwd="senha",
     database="simec_etiquetas",
     connect_timeout=1000,
 )
